@@ -1,0 +1,10 @@
+#183931 - dark-green
+#d79921 - orange
+#ce8956 - brown
+#569cd6 - blue
+#dcdca1 - beige
+#c586c0 - purple
+#d4d4d4 - grey
+#6a9955 - green
+#4bb29d - cyan
+#1e1e1e - black
